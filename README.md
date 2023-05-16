@@ -1,3 +1,3 @@
-# UE5LostSoldierV2
+# Lost Soldier
 
 Developed with Unreal Engine 5
